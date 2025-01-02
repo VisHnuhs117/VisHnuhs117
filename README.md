@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Inspyr AI**
 
-- 💬 Ask me about **I am a Computer Science Engineering student**
-
 - 📫 How to reach me **shivamv1972@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
