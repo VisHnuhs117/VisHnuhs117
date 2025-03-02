@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 
 # 💫 About Me:
-🔭 I’m currently working on problem solving techniques and projects<br>👯 I’m looking to collaborate on open source projects and contribute to it<br>🌱 I’m currently learning about technologies and problem solving skills<br>💬 Ask me about software development or anything about tech<br>📫 How to reach me: vishnuhs203@gmail.com <br>⚡ Fun fact: I love to play a lot of video games
+• 🔭 I’m currently working on problem solving techniques and projects<br>• 👯 I’m looking to collaborate on open source projects and contribute to it<br>• 🌱 I’m currently learning about technologies and problem solving skills<br>• 💬 Ask me about software development or anything about tech<br>• 📫 How to reach me: vishnuhs203@gmail.com <br>• ⚡ Fun fact: I love to play a lot of video games
 
 
 ## 🌐 Socials:
