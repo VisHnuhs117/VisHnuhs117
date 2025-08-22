@@ -7,11 +7,12 @@
 </div>
 
 # 💫 About Me:
--	🔭 I’m currently working on problem solving techniques and projects<br> 
--	👯 I’m looking to collaborate on open source projects and contribute to it 
--	🌱 I’m currently learning about technologies and problem solving skills<br> -	💬 Ask me about software development or anything about tech 
--	📫 How to reach me: vishnuhs203@gmail.com 
--	⚡ Fun fact: I love to play a lot of video games
+-	🔭 I’m currently working on problem solving techniques and projects. 
+-	👯 I’m looking to collaborate on open source projects and contribute to it. 
+-	🌱 I’m currently learning about technologies and problem solving skills. 
+-	💬 Ask me about software development or anything about tech. 
+-	📫 How to reach me: vishnuhs203@gmail.com. 
+-	⚡ Fun fact: I love to play a lot of video games.
 
 
 ## 🌐 Socials:
